@@ -11,3 +11,5 @@ My trial of autovehicle using AI method
 运行originbot_onnx来转换格式，得到.onnx模型文件
 
 可以运行originbot_test，检查模型训练效果
+
+可以查看第6周实验参考书来了解详细内容
